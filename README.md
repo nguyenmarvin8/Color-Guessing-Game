@@ -1,6 +1,6 @@
 # [_Color Guessing Game_](https://nguyenmarvin8.github.io/Color-Guessing-Game/colorGuessinGame.html)
 
-This Color Guessing Game allow users to guess a randomly generated RGB color. This game was built using HTML, CSS, and JavaScript. There is a Easy and Hard mode with 3 or 6 color options to choose from. There is also a Reset/New Color button that generates a new set of colors.
+This Color Guessing Game allow users to guess a randomly generated RGB color. There is a Easy and Hard mode with 3 or 6 color options to choose from. There is also a Reset/New Color button that generates a new set of colors. This game was built using HTML, CSS, and JavaScript.
 
 **View Repository**: [**Color Guessing Game**](https://github.com/nguyenmarvin8/Color-Guessing-Game)
 
